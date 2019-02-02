@@ -1,0 +1,16 @@
+[
+	{
+		"Name": "perl",
+		"Description": "Perl for Micro",
+		"Tags": ["perl"],
+		"Versions": [
+			{
+				"Version": "1.0.0",
+				"Url": "https://github.com/losyme/micro-plugin-perl/archive/v1.0.0.zip",
+				"Require": {
+					"micro": ">=1.4.1"
+				}
+			}
+		]
+	}
+]
